@@ -52,7 +52,7 @@ Este proyecto es un Template de juego en 2D que permite al jugador moverse por u
 - **Jacob Tinoco** - *Repositorio de educación* - [Jacob-Tinoco](https://github.com/Jacob-Tinoco)
 
 ## Historial de Versiones
-- 1.0.0 - Repositorio de educación
+- Boomberman V-1.0.0 - Repositorio de educación
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
