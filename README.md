@@ -3,7 +3,7 @@
 
 - **Jacob Tinoco** - *Repositorio de educación* - [Jacob-Tinoco](https://github.com/Jacob-Tinoco)
 
-## Bienvenida
+## Hello there
 ¡Hola! 👋 Bienvenido al template del proyecto **Boomberman**. Este proyecto consiste en la creación de un juego simple utilizando Pygame, con un estilo tipo de videojuegos de la epoca de los 2000´s, donde el jugador controla un personaje que se mueve por la pantalla.
 
 ## ¿Qué es?
